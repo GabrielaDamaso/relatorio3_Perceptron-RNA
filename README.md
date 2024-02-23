@@ -1,1 +1,2 @@
 # relatorio3_Perceptron-RNA
+O relatório 3 implementa um Perceptron com otimização por regra de Hebb. Tem como objetivo classificar dois tipos de flores contidas no arquivo iris.csv. Este CSV contém 4 características das flores Setosa e Versicolor. A RNA é capaz de classificar corretamente cada uma das flores com base nas suas características que são: Altura do caule, largura do caule, altura da pétala e largura da pétala. 
